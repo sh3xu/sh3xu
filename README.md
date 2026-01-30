@@ -68,11 +68,11 @@ I like working close to the metal—understanding how things work, then simplify
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=s43khu&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=s43khu&show_icons=true&theme=tokyonight"
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=s43khu&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=s43khu&layout=compact&theme=tokyonight"
     height="165"
   />
 </p>
