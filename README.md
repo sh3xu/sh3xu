@@ -67,14 +67,12 @@ I like working close to the metal—understanding how things work, then simplify
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=s43khu&show_icons=true&theme=tokyonight"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=s43khu&layout=compact&theme=tokyonight"
-    height="165"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s43khu&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s43khu&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=s43khu&theme=tokyonight" />
 </p>
 
 ---
