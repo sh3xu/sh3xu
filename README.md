@@ -16,9 +16,6 @@
     <a href="https://github.com/sh3xu">
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
     </a>
-    <a href="https://buymeacoffee.com/sh3xu">
-      <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000" />
-    </a>
   </p>
 </div>
 
