@@ -62,19 +62,19 @@
 
 <h2>🧰 Tech Stack</h2>
 
-<h3>Languages</h3>
+<h3 align="center">Languages</h3>
 <p align="center"> <img height="28" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" /> <img height="28" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" /> <img height="28" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" /> <img height="28" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=fff" /> </p>
 
-<h3>Runtime</h3>
+<h3 align="center">Runtime</h3>
 <p align="center"> <img height="28" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff" /> </p>
 
-<h3>Web & Tools</h3>
+<h3 align="center">Web & Tools</h3>
 <p align="center"> <img height="28" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" /> <img height="28" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" /> <img height="28" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" /> <img height="28" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode" /> </p>
 
-<h3>Learning & Exploring</h3>
+<h3 align="center">Learning & Exploring</h3>
 <p align="center"> <img height="28" src="https://img.shields.io/badge/AI-0ea5e9?style=for-the-badge&logo=openai&logoColor=fff" /> <img height="28" src="https://img.shields.io/badge/Automation-6366f1?style=for-the-badge" /> </p>
 
-<h3>DevOps & Deployment (Honorable Mention 😄)</h3>
+<h3 align="center">DevOps & Deployment (Honorable Mention 😄)</h3>
 <p>EC2 deployments, containerization, and just enough Kubernetes to be dangerous.</p>
 
 <p align="center"> <img height="28" src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=000" /> <img height="28" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" /> <img height="28" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff" /> <img height="28" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff" /> </p>
