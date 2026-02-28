@@ -75,7 +75,7 @@
 <p align="center"> <img height="28" src="https://img.shields.io/badge/AI-0ea5e9?style=for-the-badge&logo=openai&logoColor=fff" /> <img height="28" src="https://img.shields.io/badge/Automation-6366f1?style=for-the-badge" /> </p>
 
 <h3 align="center">DevOps & Deployment (Honorable Mention 😄)</h3>
-<p>EC2 deployments, containerization, and just enough Kubernetes to be dangerous.</p>
+<p align="center">EC2 deployments, containerization, and just enough Kubernetes to be dangerous.</p>
 
 <p align="center"> <img height="28" src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=000" /> <img height="28" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" /> <img height="28" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff" /> <img height="28" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff" /> </p>
 
